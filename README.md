@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🍁 I'm a first year computer science student at University of Toronto Mississauga 
+🧑‍💻 I'm on my path to be a efficient and a great programmer
+💤 I'd love to share more about myself, but the eep has gotten to me.. Zzzz
